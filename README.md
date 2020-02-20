@@ -1,3 +1,3 @@
-# NeuroEvolution-with-Keras-for-games
+# NeuroEvolution-with-Keras
 
-Under Construction.
+This project is just a sample on how to use the IA framework Keras to build a neuroevolution application.
